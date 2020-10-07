@@ -1,0 +1,11 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include"     --keep-dir x64\Debugging -maxrregcount=0  --machine 64 --compile -cudart static  -g  -use_fast_math -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W1 /nologo /Od /Fdx64\Debugging\vc141.pdb /FS /Zi /RTC1 /MDd " -o x64\Debugging\kernel.cu.obj "C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\kernel.cu" 
+C:/Users/Anona/Desktop/Dokumenty/moje/projekty_kod/array_filter_test/array_filter_test/kernel.cu(106): warning : variable "x" was declared but never referenced
+  
+C:/Users/Anona/Desktop/Dokumenty/moje/projekty_kod/array_filter_test/array_filter_test/kernel.cu(107): warning : variable "y" was declared but never referenced
+  
+C:/Users/Anona/Desktop/Dokumenty/moje/projekty_kod/array_filter_test/array_filter_test/kernel.cu(121): warning : variable "sizeOfFilterArray" was declared but never referenced
+  
+  kernel.cu
+  array_filter_test.vcxproj -> C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\x64\Debugging\array_filter_test.exe

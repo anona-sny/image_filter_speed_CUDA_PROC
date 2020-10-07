@@ -1,0 +1,203 @@
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\assert.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_memory.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_stdio_config.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_terminate.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstdlib.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_wtime.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\crtdbg.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\ctype.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\errno.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\float.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\locale.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\malloc.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\share.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stddef.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\sys\stat.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\sys\types.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\time.h
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\wchar.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\crt\common_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\crt\device_double_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\crt\device_double_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\crt\device_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\crt\device_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\crt\host_config.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\crt\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\crt\math_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\crt\math_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\crt\sm_70_rt.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\crt\sm_80_rt.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\cuda_device_runtime_api.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.0\include\cuda_runtime.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\cuda_surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\cuda_texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\device_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\device_launch_parameters.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\driver_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\library_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\sm_20_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\sm_20_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\sm_30_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\sm_32_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\sm_32_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\sm_35_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\sm_35_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\sm_60_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\sm_61_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\surface_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\surface_indirect_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\texture_fetch_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\texture_indirect_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\vector_functions.hpp
+c:\program files\nvidia gpu computing toolkit\cuda\v11.0\include\vector_types.h
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\kernel.cu
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\base.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\bufferpool.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\check.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\core.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\cvdef.h
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\cvstd.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\cvstd.inl.hpp
+c:\users\anona\desktop\dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\cvstd_wrapper.hpp
+c:\users\anona\desktop\dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\cv_cpu_dispatch.h
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\fast_math.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\hal\interface.h
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\mat.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\mat.inl.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\matx.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\neon_utils.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\operations.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\optim.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\ovx.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\persistence.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\saturate.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\traits.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\types.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\utility.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\version.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\core\vsx_utils.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\highgui.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\highgui\highgui.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\imgcodecs.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\imgproc.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\opencv_modules.hpp
+C:\Users\Anona\Desktop\Dokumenty\moje\projekty_kod\array_filter_test\array_filter_test\libs\opencv\build\include\opencv2\videoio.hpp
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\algorithm
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\ammintrin.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\array
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\cctype
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\cerrno
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\cfloat
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\chrono
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\climits
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\cmath
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\complex
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\concurrencysal.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\crtdefs.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\cstddef
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\cstdint
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\cstdio
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\cstdlib
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\cstring
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\cwchar
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\eh.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\emmintrin.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\exception
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\functional
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\immintrin.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\initializer_list
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\intrin.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\intrin0.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\ios
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\iosfwd
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\istream
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\iterator
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\limits
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\limits.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\memory
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\mmintrin.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\mutex
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\new
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\nmmintrin.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\ostream
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\pmmintrin.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\ratio
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\sal.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\setjmp.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\smmintrin.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\sstream
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\stdexcept
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\stdint.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\streambuf
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\string
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\system_error
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\thread
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\thr\xthrcommon.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\thr\xthread
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\thr\xthreads.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\thr\xtime
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\thr\xtimec.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\tmmintrin.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\tuple
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\typeinfo
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\type_traits
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\use_ansi.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\utility
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\vadefs.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\vcruntime.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\vcruntime_exception.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\vcruntime_new.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\vcruntime_new_debug.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\vcruntime_string.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\vcruntime_typeinfo.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\vector
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\wmmintrin.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\xatomic0.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\xcall_once.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\xerrc.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\xfacet
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\xiosbase
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\xkeycheck.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\xlocale
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\xlocinfo
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\xlocinfo.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\xlocnum
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\xmemory
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\xmemory0
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\xmmintrin.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\xstddef
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\xstring
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\xstring_insert.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\xtgmath.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\xtr1common
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\xutility
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\ymath.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\yvals.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\yvals_core.h
+E:\Programs\VSTUDIO\VC\Tools\MSVC\14.16.27023\include\zmmintrin.h
